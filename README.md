@@ -9,3 +9,6 @@ Quickly modify individual or multiple Evernote reminders with the Alfred App for
 * Select reminder(s)
 * Use **⌘** + **⇧** + **R** to bring up the menu
 * Get things done
+
+[View on Alfred Forum](https://www.alfredforum.com/topic/11120-evernote-reminders/)
+
