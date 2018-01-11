@@ -4,7 +4,7 @@ Quickly modify individual or multiple Evernote reminders with the Alfred App for
 ![alt text](https://github.com/dicetomato/alfred-evernote-reminders/blob/master/preview.png?raw=true "Evernote Reminders Preview")
 
 # How to use:
-* [Download workflow](https://github.com/dicetomato/alfred-evernote-reminders/releases/download/v1.0/EvernoteReminders.alfredworkflow) and import into Alfred
+* [Download workflow](https://github.com/dicetomato/alfred-evernote-reminders/releases) and import into Alfred
 * Open Evernote
 * Select reminder(s)
 * Use **⌘** + **⇧** + **R** to bring up the menu
